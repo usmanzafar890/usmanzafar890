@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered full-stack web applications using MERN & Next.js, including analytics dashboards, automation, and AI integrations (LLMs, APIs)<br>🤝 I’m looking to collaborate on AI-driven SaaS products, scalable web platforms, and data-focused applications<br>🧩 I’m looking for help with advanced AI architecture, system design, and performance optimization<br>🌱 I’m currently learning AI workflows, prompt engineering, cloud deployment, and DevOps<br>💬 Ask me about React, Next.js, Node.js, MongoDB, REST APIs, AI integrations, Google Analytics<br>⚡ Fun fact: I love combining AI with clean code to solve real-world problems
+🔭 I’m currently working on AI-powered full-stack web applications using MERN & Next.js, including analytics dashboards, automation, and AI integrations (LLMs, APIs)<br>🤝 I’m looking to collaborate on AI-driven SaaS products, scalable web platforms, and data-focused applications<br>🧩 I’m looking for help with advanced AI architecture, system design, and performance optimization<br>🌱 I’m currently learning AI workflows, prompt engineering, cloud deployment, and DevOps<br>💬 Ask me about React, Next.js, Node.js, MongoDB, REST APIs, AI integrations, Google Analytics<br>⚡ Fun fact: I love combining AI with clean code to solve real-world problems.
 
 
 ## 🌐 Socials:
